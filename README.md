@@ -1,0 +1,2 @@
+# jsEmailValidator
+Javascript Email Validator
